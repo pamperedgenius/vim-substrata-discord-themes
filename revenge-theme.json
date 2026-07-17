@@ -355,7 +355,10 @@
     "PLUM_24": "#191c25",
     "WHITE_630": "#6c6f82"
   },
-  "background": {},
+  "background": {
+    "url": "https://raw.githubusercontent.com/pamperedgenius/vim-substrata-discord-themes/main/wallpaper-bg.jpg",
+    "alpha": 22
+  },
   "plus": {
     "version": "0",
     "customOverlays": true,

@@ -189,6 +189,18 @@
     "SPOILER_REVEALED_BACKGROUND": [
       "#5b5f7140",
       "#5b5f7140"
+    ],
+    "BG_BACKDROP": [
+      "#191c25b2",
+      "#191c25b2"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#3c3f4e",
+      "#3c3f4e"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#20222d",
+      "#20222d"
     ]
   },
   "rawColors": {
@@ -335,7 +347,17 @@
     "CHAT_MENTIONS_BACKGROUND_DARK": "#ab924c4d",
     "CHAT_MENTIONS_BACKGROUND_LIGHT": "#ab924c4d",
     "CHAT_MENTIONS_FOREGROUND_DARK": "#ab924c",
-    "CHAT_MENTIONS_FOREGROUND_LIGHT": "#ab924c"
+    "CHAT_MENTIONS_FOREGROUND_LIGHT": "#ab924c",
+    "BLACK": "#191c25",
+    "PRIMARY_330": "#f0ecfe",
+    "PRIMARY_530": "#cf8164",
+    "PRIMARY_645": "#659ea250",
+    "PLUM_24": "#191c25",
+    "WHITE_630": "#6c6f82"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/pamperedgenius/vim-substrata-discord-themes/main/wallpaper-bg.jpg",
+    "alpha": 8
   },
   "plus": {
     "version": "0",

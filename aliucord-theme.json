@@ -8,7 +8,7 @@
   },
   "background": {},
   "fonts": {
-    "*": "https://raw.githubusercontent.com/pamperedgenius/neomatrix-code-font/main/DejaVuMarkupNerdFont-Book.ttf"
+    "*": "https://raw.githubusercontent.com/pamperedgenius/dejavu-markup-nerd-font/main/DejaVuMarkupNerdFont-Book.ttf"
   },
   "simple_colors": {
     "accent": -6243880,
